@@ -1,0 +1,21 @@
+{
+  "name": "ngx-auto-textarea",
+  "version": "0.0.4",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/ngx-auto-textarea.umd.js",
+  "module": "fesm5/ngx-auto-textarea.js",
+  "es2015": "fesm2015/ngx-auto-textarea.js",
+  "esm5": "esm5/ngx-auto-textarea.js",
+  "esm2015": "esm2015/ngx-auto-textarea.js",
+  "fesm5": "fesm5/ngx-auto-textarea.js",
+  "fesm2015": "fesm2015/ngx-auto-textarea.js",
+  "typings": "ngx-auto-textarea.d.ts",
+  "metadata": "ngx-auto-textarea.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
